@@ -1,0 +1,1 @@
+O código simples apresentado, trabalha com estrutura monolítica, onde o código funciona de uma forma unificada.
