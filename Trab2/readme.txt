@@ -1,0 +1,1 @@
+Este projeto é uma aplicação simples de lista de tarefas em PHP usando o padrão MVC (Model-View-Controller). O arquivo index.php serve como ponto de entrada, onde o controlador de tarefas é chamado para listar as tarefas. Os arquivos TaskController.php, TaskModel.php e taskView.php desempenham papéis específicos na organização e exibição das tarefas.
