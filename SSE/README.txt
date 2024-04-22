@@ -1,0 +1,1 @@
+O código gera um contador de acessos da página, sendo a cada acesso ou atualização da página.
